@@ -1,0 +1,4 @@
+# Coverage tools
+# Using looser constraints to avoid dependency conflicts
+coverage>=5.2.1                  # Code coverage measurement tool (compatible with pytest-cov)
+coveralls>=3.3.1                 # Integration with coveralls.io
