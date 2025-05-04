@@ -2,16 +2,6 @@
 
 A Python-based web scraper for extracting user and financial data from the Harkirat ClassX course platform.
 
-## Overview
-
-This tool scrapes data from the course selling website at https://harkirat.classx.co.in/new-courses/8-live-0-100-complete to extract information about:
-
-- List of all paid users
-- Total number of users
-- Total GMV (Gross Merchandise Value)
-- Total profit
-- Additional user details available through the platform
-
 ## Project Structure
 
 ```
