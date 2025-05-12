@@ -1,6 +1,6 @@
 # Course Platform Scraper
 
-A Python-based web scraper for extracting user and financial data from the Harkirat ClassX course platform.
+A Python-based web scraper for extracting user and financial data from any platform.
 
 ## Project Structure
 
